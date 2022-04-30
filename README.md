@@ -15,6 +15,4 @@ Foi utilizado como inspiração o modelo disponível [aqui](https://br.freepik.c
 
 <!-- Desenvolvido utilizado as tecnologias HTML, CSS e Javascript. -->
 
-<img src="./arquivos/html5-svgrepo-com.svg" width="50">
-<img src="./arquivos/css3-svgrepo-com.svg" width="50">
-<img src="./arquivos/javascript-svgrepo-com.svg" width="50">
+<img src="./arquivos/html5-svgrepo-com.svg" width="50"><img src="./arquivos/css3-svgrepo-com.svg" width="50"><img src="./arquivos/javascript-svgrepo-com.svg" width="50">
